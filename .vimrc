@@ -14,3 +14,5 @@ let g:ctrlp_prompt_mappings = {
     \ }
 let g:rubycomplete_buffer_loading = 1
 let g:rubycomplete_rails = 1
+set backspace=2
+fixdel
